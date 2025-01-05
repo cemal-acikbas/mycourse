@@ -1,0 +1,2 @@
+aydin:
+clone islemi sonucunda inen dosyada yaptigim islem.
